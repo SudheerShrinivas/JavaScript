@@ -1,0 +1,247 @@
+*
+{
+    padding: 0px;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", Arial, sans-serif;
+}
+.container
+{
+    padding-top: 40px;
+    background-image: url("https://img.freepik.com/premium-photo/open-book-with-graduation-hat-light-bulb-education-learning-school-university-idea-concept-3d-illustration_56345-604.jpg");
+    height: 800px;
+    width: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% ,100%;
+    background-attachment: fixed;
+}
+.fa-clock-o,.fa-phone
+{
+    color: white;
+    font-size: 40px;
+    margin-right:10px ;
+}
+.head a
+{
+    text-decoration: none;
+    color: white;
+}
+.head
+{
+    margin-right:250px ;
+    margin-right: 100px;
+}
+.head h1 a:hover
+{
+    color: #1eb2a6;
+}
+.head h1 a
+{
+    font-size: 30px;
+    transition: all .3s;
+}
+.main
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.time
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    margin-right: -70px;
+    color: white;
+}
+.same
+{
+    border-radius: 100% ;
+    color: #1eb2a6;
+    font-size: 18px;
+    padding: 7px;
+    background-color:rgba(255, 255, 255, 0.2);
+    transition: all, .3s;
+}
+.fa-facebook
+{
+    padding-left: 11px;
+    width:35px;
+}
+.same:hover
+{
+    background-color:#1eb2a6 ;
+    color: white;
+}
+nav
+{
+    height: 70px;
+    width: 95%;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgba(173, 216, 230, 0.205) ;
+    font-weight: bold;
+}
+nav ul li
+{
+    display: inline-block;
+    padding-left: 40px;
+}
+nav ul li a
+{
+    text-decoration: none;
+    color: white;
+}
+nav div
+{
+    height: 100%;
+    width: 20%;
+    background-color: #1eb2a6;
+    text-align: center;
+    padding: 25px;
+}
+nav div a
+{   
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+.content
+{
+    height: 300px;
+    width: 500px;
+    margin: 100px; 
+}
+.content h1
+{
+    font-size: 39px;
+    color: white;
+    line-height:60px;
+}
+.content h5
+{
+    line-height:40px;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.7);
+}
+.content p
+{
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 18px;
+    line-height:30px;
+}
+.content a
+{
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    line-height:80px;
+}
+.content div .start
+{
+    color: white;
+    background-color: #1eb2a6;
+}
+.content div .view
+{
+    color: #1eb2a6;
+    background-color: white;
+}
+.data
+{
+    height: 750px;
+    width: 1350px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(230, 227, 221);
+}
+.data2
+{
+    height: 100%;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.type
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    padding-top: 10px;
+    height: 20%;
+    width: 100%;
+    background-color: white;
+    color: gray;
+    transition: all .2s;
+}
+.type h3
+{
+    color: black;
+    line-height: 30px;
+}
+.type .fa
+{
+    color: #1eb2a6;
+    font-size: 60px;
+}
+.type1
+{
+    height: 60px;
+    width: 13%;
+}
+.type2
+{
+    line-height: 30px;
+    height: 100%;
+    width: 79%;
+}
+.data .data1 
+{
+    height: 100%;
+    width: 30%;
+}
+.data .data1 img
+{
+    height: 100%;
+    width: 100%;
+}
+ .det
+{
+    height: 18%;
+    width: 100%;
+    margin-bottom: 23px;
+}
+.det h1
+{
+    font-size: 50px;
+}
+.det h5
+{
+    color: #1eb2a6;
+    line-height: 30px ;
+    font-size: 18px;
+}
+.type:hover 
+{
+    background-color: #1eb2a6;
+}
+.ban
+{
+    background-image: linear-gradient(rgba(119, 136, 153, 0.13),rgba(119, 136, 153, 0.13)),
+    url("https://static.toiimg.com/thumb/msid-84551852,width-1280,resizemode-4/84551852.jpg");
+    height: 350px;
+    width: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% ,100%;
+}
+

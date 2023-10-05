@@ -1,0 +1,22 @@
+[
+    {
+        "Name":"Sudheer",
+        "id":"123",
+        "sal":"6 LPA"
+    },
+    {
+        "Name":"JAVA",
+        "id":123,
+        "sal":"6 LPA"
+    },
+    {
+        "Name":"SQL",
+        "id":123,
+        "sal":"6 LPA"
+    },
+    {
+        "Name":"JAVASCRIPT",
+        "id":123,
+        "sal":"6 LPA"
+    }
+]
